@@ -1,2 +1,3 @@
 karaage
 natto
+tamago
